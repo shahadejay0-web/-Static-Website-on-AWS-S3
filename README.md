@@ -1,15 +1,15 @@
-# -Static-Website-on-AWS-S3
+# Static-Website-on-AWS-S3
  Creating and configuring an S3 bucket  Managing public access settings and applying bucket policies  Understanding access permissions and resolving deployment issues This experience helped me strengthen my understanding of AWS Cloud fundamentals and how cloud storage can be used for scalable and cost-effective web hosting
 
 ---
 
-# 🌐 Static Website Hosting
+#  Static Website Hosting
 
 This repository contains a **static website** built using **HTML, CSS, and JavaScript**, hosted using a static hosting service such as **GitHub Pages / AWS S3 / **.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 .
@@ -25,7 +25,7 @@ This repository contains a **static website** built using **HTML, CSS, and JavaS
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Fully static website
 * Fast loading and lightweight
@@ -35,7 +35,7 @@ This repository contains a **static website** built using **HTML, CSS, and JavaS
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **HTML5**
 * **CSS3**
@@ -45,7 +45,7 @@ This repository contains a **static website** built using **HTML, CSS, and JavaS
 
 ---
 
-## 📦 How to Deploy
+##  How to Deploy
 
 ### Option 1: GitHub Pages
 
@@ -74,30 +74,30 @@ This repository contains a **static website** built using **HTML, CSS, and JavaS
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 *Add screenshots of your website here (optional)*
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome!
 Feel free to fork this repository and submit a pull request.
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the **MIT License**.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Jay Shahade**
-📧 *[shahadejay0@gmail.com]*
-🌍 *your-portfolio-link*
+ *[shahadejay0@gmail.com]*
+
 
 ---
 
